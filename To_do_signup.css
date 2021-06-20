@@ -1,0 +1,18 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(190, 17, 17, 0.2);
+    transition: 0.3s;
+    width:30% ;
+    margin-top: 100px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    background:rgba(31, 225, 231, 0.5);
+  }
+  body{
+  background-color: rgb(235, 241, 240);
+}
+h5{
+    text-size-adjust: px;
+}
+  
+  
+  
